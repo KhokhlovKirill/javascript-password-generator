@@ -1,8 +1,7 @@
 # Password Generator
 Difficulty: Easy
 ## About programm
-Это приложение на JavaScript позволяет генерировать рандомные пароли различной длины и сложности.   
-В программе есть три сложности паролей:
+This JavaScript application allows you to generate random passwords of various lengths and complexity.
 - Easy (only numbers)
 - Medium (numbers and letters)
 - Hard (numbers, letters and special symbols)
