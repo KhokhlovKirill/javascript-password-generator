@@ -5,3 +5,4 @@ This JavaScript application allows you to generate random passwords of various l
 - Easy (only numbers)
 - Medium (numbers and letters)
 - Hard (numbers, letters and special symbols)
+Use: https://khokhlov.tk/portfolio/password-generator
